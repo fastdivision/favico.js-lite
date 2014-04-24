@@ -1,7 +1,7 @@
 {
-	"name": "favico.js",
+	"name": "favico.js-lite",
 	"version": "0.3.4",
-	"homepage": "http://lab.ejci.net/favico.js/",
+	"homepage": "https://github.com/fastdivision/favico.js-lite",
 	"authors": ["Miroslav Magda <magda.miroslav@gmail.com>"],
 	"description": "Favico.js is a library to manipulate the favicon, adding alert badges, render images or videos.",
 	"main": "favico.js",
