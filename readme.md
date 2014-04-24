@@ -1,4 +1,7 @@
-#favico.js
+#favico.js-lite
+
+A lite version of Favico.js without media for faster downloading via Bower.
+
 More info [here](http://lab.ejci.net/favico.js/).
 
 
